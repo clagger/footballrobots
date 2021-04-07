@@ -1,0 +1,11 @@
+{
+  "player_id":1,
+  "mate_id":2,
+  "side":1,
+  "server_ip":"192.168.0.102",
+  "db_ip": "192.168.0.100",
+  "db_username": "manfred",
+  "db_password": "password",
+  "use_ml": false,
+  "ml_type": "xgboost"
+}

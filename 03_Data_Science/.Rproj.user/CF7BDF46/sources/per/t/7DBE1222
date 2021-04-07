@@ -1,0 +1,26 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1607430883746.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "1893777869",
+    "id" : "7DBE1222",
+    "lastKnownWriteTime" : 1608458689,
+    "last_content_update" : 1608458689956,
+    "path" : "~/GIT Projekte/dat19_footballrobots/06_Data_Science/01_data_preparation.R",
+    "project_path" : "01_data_preparation.R",
+    "properties" : {
+        "cursorPosition" : "121,50",
+        "scrollLine" : "110",
+        "tempName" : "Untitled1"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
